@@ -1,5 +1,7 @@
 # Python Data Analysis with Numpy, Pandas and Matplotlib
 
+* Python 데이터 분석으로는 Numpy와 Pandas가 유명하고, 데이터 시각화로는 Matplotlib이 유명하다.
+
 * 나는 2018년 여름방학에 **네이버 edwith에서 최성철 교수님의 <머신러닝을 위한 Python>** 을 수강하였다. 아래는 강의 링크다.
 
 https://www.edwith.org/aipython
